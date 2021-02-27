@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Peta Lokasi Sebaran Menara Telekomunikasi Kabupaten Gunung Mas</title>
+		<meta charset=utf-8 />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta property="og:title" content="Peta Lokasi Sebaran Menara Telekomunikasi Kabupaten Gunung Mas" />
+		
+		<meta property="og:description" content="Peta Lokasi Sebaran Menara Telekomunikasi Kabupaten Gunung Mas">
+		<meta property="og:url" content="https://jonhfu.github.io/petagumas-menara">
+		
+	
+		<meta property="og:image" content="preview.png" />
+		<link rel="shortcut icon" href="src/img/worldwide.png" type="image/png">
+		<link rel="icon" href="src/img/worldwide.png" type="image/png">
+		
+		<link rel="stylesheet" type="text/css" href="src/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="src/css/leaflet.css" />
+		<!--<link rel="stylesheet" type="text/css" href="src/css/mapbox.min.css" /> -->
+		<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="src/css/style.css"> 
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.Default.css">
+		<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+		
+		
+	</head>
+	<body>
+	<style>
+.legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:20px;
+  width:8%;
+  text-align:center;
+  font-size:10px;
+  color:#808080;
+  }
+</style>
+<!-- Set the display of this container to none so we can
+     add it programmatically to `legendControl` -->
+<div id='legend' style='display:none;'>
+  <strong>Legend Kecamatan</strong>
+  <nav class='legend clearfix'>
+    <span style='background:#ff0000;'></span>
+    <span style='background:#ff0080;'></span>
+	 <span style='background:#ff0040;'></span>
+    <span style='background:#bf00ff;'></span>
+    <span style='background:#4000ff;'></span>
+	  <span style='background:#0080ff;'></span>
+	    <span style='background:#00ffff;'></span>
+		  <span style='background:#00ff40;'></span>
+		    <span style='background:#ffff00;'></span>
+			  <span style='background:#ffbf00;'></span>
+			    <span style='background:#ff4000;'></span>
+				  <span style='background:#FFFFFF;'></span>
+    <label><strong>MANUHING</strong></label>
+    <label><strong>RUNGAN</strong></label>
+	 <label><strong>MIHING RAYA</strong></label>
+    <label><strong>KURUN</strong></label>
+    <label><strong>RUNGAN HULU</strong></label>
+	<label><strong>MANUHING RAYA</strong></label>
+	<label><strong>TEWAH</strong></label>
+	<label><strong>KAHAYAN HULU UTARA</strong></label>
+	<label><strong>MIRI MANASA</strong></label>
+	<label><strong>DAMANG BATU</strong></label>
+	<label><strong>RUNGAN BARAT</strong></label>
+	<label><strong>SEPANG</strong></label>
+    
+</div>
+		 <nav class="navbar navbar-blue navbar-static-top" role="navigation">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						
+						<a class="navbar-brand" href="https://jonhfu.github.io/"><i class="fa fa-fw fa-file-text"></i>Open Data Project</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-map">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a data-toggle="modal" href='#'>Peta Lokasi Sebaran Menara Telekomunikasi Kabupaten Gunung Mas</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav> 
+
+		<div id="map"></div>
+
+		<script src="src/json/data-kecamatan.geojson"></script>
+		<script src="src/js/jquery-3.1.1.min.js"></script>
+		<script src="src/js/bootstrap.min.js"></script>
+		<script src="src/js/mapbox.min.js"></script>
+		<script src="src/js/leaflet.ajax.min.js"></script>
+		<script src="src/js/Leaflet.MakiMarkers.js"></script>
+		<script src="src/js/leaflet.markercluster.js"></script>
+		<script src="src/js/map.js"></script>
+		<script>
+			 map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+		</script>
+	</body>
+</html>

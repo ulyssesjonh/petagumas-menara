@@ -1,0 +1,1105 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1001,
+				"nama_site": "Lintas Trans (Tewai Baru)",
+				"lokasi": "Desa Tewai Baru",
+				"kel": "-",
+				"kec": "Sepang",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.923211",
+					"-1.465278"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1002,
+				"nama_site": "Desa Sepang (Sepang Kota)",
+				"lokasi": "Desa Sepang Kota RT.008 RW.002",
+				"kel": "-",
+				"kec": "Sepang",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.90427",
+					"-1.497504"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1003,
+				"nama_site": "MT_Sepang",
+				"lokasi": "Desa Tampelas RT.02 RW.01",
+				"kel": "-",
+				"kec": "Sepang",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "52 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.9132",
+					"-1.510945"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1004,
+				"nama_site": "MT_PTTAIYOUNG",
+				"lokasi": "Desa Luwuk Langkuas",
+				"kel": "-",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.73623",
+					"-1.39875"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1005,
+				"nama_site": "MT_Tumbang Malahoi",
+				"lokasi": "Desa Tumbang Malahoi",
+				"kel": "-",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.5209",
+					"-1.2192"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1006,
+				"nama_site": "DMT Tumbang Kajuei",
+				"lokasi": "Desa Tumbang Kajuei",
+				"kel": "-",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.563466",
+					"-1.374023"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1007,
+				"nama_site": "MT_Kendet",
+				"lokasi": "Desa Takaras Jl. Jaga Kendet RT.002",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.621485",
+					"-1.583583"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1008,
+				"nama_site": "Rabambang",
+				"lokasi": "Desa Rabambang RT. 09",
+				"kel": "-",
+				"kec": "Rungan Barat",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.454459",
+					"-1.230939"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1009,
+				"nama_site": "MT_Ds Pilang",
+				"lokasi": "Desa Pilang Munduk",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "52 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.912223",
+					"-1.289303"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1010,
+				"nama_site": "MT_PTTAM",
+				"lokasi": "Desa Tumbang Tambirah",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.8537",
+					"-1.04712"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1011,
+				"nama_site": "Sangkurun 3",
+				"lokasi": "Jl. Simpang Sungai Hanyo  RT. 14",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.868056",
+					"-1.093056"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1012,
+				"nama_site": "MT Sangkurun",
+				"lokasi": "Jl. Sangkurun, Gang Nusa Indah RT. 08/05",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 Kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.871389",
+					"-1.11"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1013,
+				"nama_site": "MT_Tbg Anjir",
+				"lokasi": "RT/RW 005/002",
+				"kel": "Tampang Tumbang Anjir",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "1 kaki (Monopole)",
+				"tower_height": "30 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.863611",
+					"-1.127778"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1014,
+				"nama_site": "DMT Kampuri",
+				"lokasi": "Jl. Pertanian RT/RW 03",
+				"kel": "Tewah",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.7314",
+					"-1.06046"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 1015,
+				"nama_site": "Tumbang Danau",
+				"lokasi": "Desa Tumbang Danau RT. 01",
+				"kel": "-",
+				"kec": "Mihing Raya",
+				"nama_perusahaan": "PT. DAYAMITRA TELEKOMUNIKASI",
+				"type_menara": "4 kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.926882",
+					"-1.322415"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2001,
+				"nama_site": "Sepang Simin (Sepang Kota Muara Jalan)",
+				"lokasi": "Desa Sepang Kota, Jl. Poros RT. 6 ",
+				"kel": "-",
+				"kec": "Sepang",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.91861",
+					"-1.491116"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2002,
+				"nama_site": "Rungan",
+				"lokasi": "Jl. Trans Palangkaraya - Rungan RT. 11",
+				"kel": "Tumbang Jutuh",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "92 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.57",
+					"-1.297222"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2003,
+				"nama_site": "Tumbang Talaken",
+				"lokasi": "Desa Tumbang Talaken Gang Gereja RT 4/RW 2",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "112 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.385",
+					"-1.351667"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2004,
+				"nama_site": "Tumbang Miri",
+				"lokasi": "Jl. Damang Batu RT.5/RW 1",
+				"kel": "Tumbang Miri",
+				"kec": "Kahayan Hulu Utara",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.550278",
+					"-0.918333"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2005,
+				"nama_site": "Kuala Kurun STO KALTENG",
+				"lokasi": "Jl. Temanggung Panji",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "52 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.868247",
+					"-1.100584"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2006,
+				"nama_site": "Pemda Kurun",
+				"lokasi": "Jl. A. Yani RT.5",
+				"kel": "Tumbang Anjir",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "92 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.839167",
+					"-1.127222"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2007,
+				"nama_site": "Simpang Miwan-Tumbang Miwan",
+				"lokasi": "Jl. Lintas Desa Tumbang Miwan Rt. 04",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.868958",
+					"-1.215408"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2008,
+				"nama_site": "Tanjung Riu",
+				"lokasi": "Jl. Desa Tanjung Riu RT. 2,  Desa Tanjung Riu",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.880833",
+					"-1.147639"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2009,
+				"nama_site": "Tewah",
+				"lokasi": "Jl. Nyai Balau Gang Polong RT. 7",
+				"kel": "Tewah",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "52 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.726817",
+					"-1.052714"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 2010,
+				"nama_site": "Kampuri",
+				"lokasi": "Jl. Provinsi Palangkaraya-Kampuri",
+				"kel": "Kampuri",
+				"kec": "Mihing Raya",
+				"nama_perusahaan": "PT. TELKOMSEL",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.918282",
+					"-1.36257"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3001,
+				"nama_site": "Sepang Simin MGC",
+				"lokasi": "Jl. Pemda RT. 05/ RW II",
+				"kel": "Sepang Simin",
+				"kec": "Sepang",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "73 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.894984",
+					"-1.488744"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3002,
+				"nama_site": "Tumbang Baringei",
+				"lokasi": "Jl. Bue Ninin RT. 04 / RW. 01 Desa Tumbang Beringei",
+				"kel": "-",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.55062",
+					"-1.23671"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3003,
+				"nama_site": "Tumbang Jutuh",
+				"lokasi": "Jl. Cakra Alam RT. 11/04",
+				"kel": "Tumbang Jutuh",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.569444",
+					"-1.296944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3004,
+				"nama_site": "Petak Bahandang",
+				"lokasi": "Jl. Palangka Raya-Kuala Kurun, Desa Petak Bahandang Rt.003/Rw.001",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.898756",
+					"-1.137104"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3005,
+				"nama_site": "Toko Mas H. BASRUN Jl. Sangkurun",
+				"lokasi": "Jl. Sabirin Muchtar RT. 12 / RW. 04",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "30 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.867778",
+					"-1.105556"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3006,
+				"nama_site": "Tumbang Anjir",
+				"lokasi": "Jl. Letjen S. Parman Rt.006/ Rw. 005",
+				"kel": "Tampang Tumbang Anjir",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "40 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.855278",
+					"-1.128333"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3007,
+				"nama_site": "Letjen Suprapto",
+				"lokasi": "Jl. Brigjen Katamso RT. 07 / RW. 01",
+				"kel": "Tampang Tumbang Anjir",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "40 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.855278",
+					"-1.116944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3008,
+				"nama_site": "Printis Tewah",
+				"lokasi": "Jl. Perintis No. 46 RT. 20",
+				"kel": "Tewah",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.729778",
+					"-1.031806"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3009,
+				"nama_site": "Dahian Tambuk",
+				"lokasi": "JL. Lintas Palangka Raya–Kuala Kurun RT. 04 / RW 01, Desa Dahian Tambuk",
+				"kel": "-",
+				"kec": "Mihing Raya",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "73 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.926944",
+					"-1.292111"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 3010,
+				"nama_site": "Tumbang Empas",
+				"lokasi": "Jl. Lintas Palangka Raya-Kuala Kurun Rt.002 / Rw. 001, Desa Tumbang Empas",
+				"kel": "-",
+				"kec": "Mihing Raya",
+				"nama_perusahaan": "PT. PROTELINDO",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.914097",
+					"-1.383282"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4001,
+				"nama_site": "PT.Flora Nusa Perdana / TB_ Bangunsari",
+				"lokasi": "Jl. Bangunsari RT. 01/ RW. 01",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "4 kaki",
+				"tower_height": "82 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.391667",
+					"-1.447778"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4002,
+				"nama_site": "TB_TPA Manuhing/(Area 1)",
+				"lokasi": "Desa Belawan Mulia Rt. 04 Rw. 02",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.449119",
+					"-1.44039"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4003,
+				"nama_site": "PT. Muia Sawit Agro Lestari / TB_ Taringen (Area 2)",
+				"lokasi": "Jl. Desa Taringen, RT.02",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.53764",
+					"-1.59142"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4004,
+				"nama_site": "MT, Desa Tumbang Tambirah",
+				"lokasi": "Jl. Perjuangan RT.05, Desa Tumbang Tambirah",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "1 kaki / monopole",
+				"tower_height": "42 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.82381073",
+					"-1.0639164"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4005,
+				"nama_site": "TB_Hurung Bunut",
+				"lokasi": "Jl. Suka Maju RT. 001, Desa Hurung Bunut",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.91152",
+					"-1.231488"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 4006,
+				"nama_site": "TB_Tbg. Miwan",
+				"lokasi": "Jl. Lintas Desa Rt. 001 , Desa Tumbang Miwan",
+				"kel": "-",
+				"kec": "Kurun",
+				"nama_perusahaan": "TOWER BERSAMA GROUP",
+				"type_menara": "4 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.877042",
+					"-1.2346"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 5001,
+				"nama_site": "Takaras",
+				"lokasi": "Jl. Negara Palangkaraya Tumbang Talaken Km. 91, Desa Tarakas",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. XL AXIATA Tbk.",
+				"type_menara": "4 kaki",
+				"tower_height": "90 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.586667",
+					"-1.596944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 5002,
+				"nama_site": "Tumbang Talaken",
+				"lokasi": "Desa Tumbang Talaken",
+				"kel": "-",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. XL AXIATA Tbk.",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.586667",
+					"-1.596944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 5003,
+				"nama_site": "Tumbang Rahuyan",
+				"lokasi": "Jl. Poros Tbg Jutuh, Tumbang Rahuyan, Desa Tubang Lapan",
+				"kel": "-",
+				"kec": "Rungan Hulu",
+				"nama_perusahaan": "PT. XL AXIATA Tbk.",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.550278",
+					"-1.166667"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 5004,
+				"nama_site": "UPT Transbangdep",
+				"lokasi": "Jl. Cilik Riwut Km.10-3 Rt.11/03 (TPSA)",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. XL AXIATA Tbk.",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.791111",
+					"-1.113889"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 5005,
+				"nama_site": "Penda Pilang Coloc.",
+				"lokasi": "Jl. Nyai Kamelah (Bukit Naga), Desa Sumur Mas",
+				"kel": "-",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. XL AXIATA Tbk.",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.684444",
+					"-1.093056"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6001,
+				"nama_site": "Tumbang Jutuh (Middle of Kalimantan)",
+				"lokasi": "Jl. Singa Rasing, RT.4",
+				"kel": "Tumbang Jutuh",
+				"kec": "Rungan",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "110 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.570556",
+					"-1.285833"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6002,
+				"nama_site": "Tumbang Talaken (South Of Kalimantan)",
+				"lokasi": "RT.44",
+				"kel": "Tumbang Talaken",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "80 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.382222",
+					"-1.3525"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6003,
+				"nama_site": "Rd to Tbg. Talaken-Centra of Kalimantan",
+				"lokasi": "Jl. Negara KM.119 Desa Fajar Harapan",
+				"kel": "Tumbang Talaken",
+				"kec": "Manuhing",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "110 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.402778",
+					"-1.513611"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6004,
+				"nama_site": "N_Kuala_Kurun",
+				"lokasi": "Jl. Cilik Riwut belakang mini grahapari",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "80 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.862222",
+					"-1.104444"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6005,
+				"nama_site": "Kuala Kurun",
+				"lokasi": "Jl. Menuju Air Terjun Batu Mahasur RT.01/RW.01",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.856944",
+					"-1.092778"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6006,
+				"nama_site": "Road To Tewah",
+				"lokasi": "Jl. Cilik Riwut RT.4",
+				"kel": "Kuala Kurun",
+				"kec": "Kurun",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.8475",
+					"-1.096111"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 6007,
+				"nama_site": "Tewah",
+				"lokasi": "RT.20 (Daerah Pasir Putih)",
+				"kel": "Tewah",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. INDOSAT ooredoo",
+				"type_menara": "4 kaki",
+				"tower_height": "80 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.718333",
+					"-1.064722"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 7001,
+				"nama_site": "TUMBANG MIRI",
+				"lokasi": "Jl. Hantipan RT.5/RW.01",
+				"kel": "Tumbang Miri",
+				"kec": "Kahayan Hulu Utara",
+				"nama_perusahaan": "PT. SOLUSI TUNAS PRATAMA",
+				"type_menara": "3 kaki",
+				"tower_height": "72 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.549722",
+					"-0.918056"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id_site": 7002,
+				"nama_site": "Tewah",
+				"lokasi": "JL. Antang Rangam No. 22 RT.14",
+				"kel": "Tewah",
+				"kec": "Tewah",
+				"nama_perusahaan": "PT. SOLUSI TUNAS PRATAMA",
+				"type_menara": "3 kaki",
+				"tower_height": "70 Meter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"113.720889",
+					"-1.045667"
+				]
+			}
+		}
+	]
+}
